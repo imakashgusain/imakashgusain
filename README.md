@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @imakashgusain
-- 👀 I’m interested in java programming
+- 👀 I’m interested in programming with Java
 - 🌱 I’m currently mastering Data structure and algo
+-     Also 3 star coder on codechef
 - 📫 How to reach me akashgusain57@gmail.com
 
 <!---
