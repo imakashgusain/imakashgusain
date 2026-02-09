@@ -50,5 +50,5 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imakashgusain&layout=compact&theme=dark&locale=en&langs_count=10" alt="Techs used in projects" width="495px" />
     </p> -->
     <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=imakashgusain&theme=xcode&bg_color=151515" alt="Activity Graph" />
-    </p> -->
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=imakashgusain&theme=xcode&bg_color=151515" alt="Activity Graph" /> -->
+    </p>
