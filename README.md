@@ -1,14 +1,14 @@
 <h2 align="center">
-    <b>Hello, Beautiful Peoples! 🌟</b>
+    <b>Hello, Beautiful People! 🌟</b>
 </h2>
 
 <p align="center">
-   <b>I'm Akash, a developer passionate about building connections and creating amazing things through technology.</b>
+   <b>I'm Akash, a backend developer passionate about building connections and creating amazing things through technology.</b>
 </p>
 
 
 <p align="center">
-    Welcome to my GitHub! Here, you'll discover my projects, open-source contributions, and experiments that reflect my journey in the world of code and creativity.
+    Welcome to my GitHub! Here, you'll discover my projects and experiments that reflect my journey in the world of code and creativity.
 </p>
 
 
@@ -30,12 +30,12 @@
 
 - 👀 I’m a software developer at Gemini Solutions Private Ltd.
 - 🌱 I’m currently learning cloud(AWS), gRPC, Refactoring and Clean code.
-- ✨ experienced in creating Restful web services using Java/Spring Boot.
+- ✨ experienced in creating RESTful web services using Java/Spring Boot.
 - ⚡ Fun fact: I love to play multiplayer online games.
 
 <br/>
 
-<p><b>My GitHub stats</b></p>
+<!-- <p><b>My GitHub stats</b></p>
     <br />
     <!-- <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=imakashgusain&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
@@ -51,4 +51,4 @@
     </p> -->
     <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=imakashgusain&theme=xcode&bg_color=151515" alt="Activity Graph" />
-    </p>
+    </p> -->
