@@ -29,8 +29,8 @@
 
 
 - 👀 I’m a software developer at Gemini Solutions Private Ltd.
-- 🌱 I’m currently learning cloud(AWS), gRPC, Refactoring and Clean code.
-- ✨ experienced in creating RESTful web services using Java/Spring Boot.
+- 🌱 I’m currently excelling in Java and learning cloud and AI.
+- ✨ experienced in creating RESTful microservices using Java/Spring Boot.
 - ⚡ Fun fact: I love to play multiplayer online games.
 
 <br/>
